@@ -27,7 +27,7 @@ const giftImages = {
   "Jug": "🫖",                // teapot
   "Double mug": "☕☕",        // two coffee mugs
   "Chef bowl": "🍲",          // pot of food
-  "Misri bowl": "🍬",         // candy (sugar pieces)
+  "Misri bowl": "🍮",         // candy (sugar pieces)
   "Headset": "🎧",            // headphones
   "Better luck next time": "🍀" // four-leaf clover
 };
